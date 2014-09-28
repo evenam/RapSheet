@@ -1,0 +1,199 @@
+body
+{
+	padding : 0px;
+	background : white;
+}
+
+#wrapper
+{
+	margin : auto;
+	font-family : "Courier";
+	margin-bottom : 40px;
+}
+
+#sidebar
+{
+	position : fixed;
+	top : 0px;
+	right : 0px;
+	bottom : 0px;
+	width : 300px;
+	border : solid black 1px;
+	z-index : 10;
+	text-align : center;
+	background : #FFFFFF;
+}
+
+#mainboard
+{
+	margin-right: 302px;
+	margin-left : 0px;
+	margin-top : 0px;
+}
+
+.album
+{
+	border : solid black 1px;
+	background : #FFFFFF;
+	margin-bottom : 10px;
+	min-height : 320px;
+}
+
+.album_left
+{
+	float : left;
+	text-align : center;
+	width : 200px;
+}
+
+.album_right
+{
+	height : 100%;
+	min-height : 300px;
+	margin-left : 200px;
+}
+
+.album_track
+{
+	border-bottom : 1px solid black;	
+	padding : 4px;
+	background : #FFFFFF;
+}
+
+.right_button
+{
+	float : right;
+}
+
+.clear
+{
+	clear : both;
+}
+
+#sidebar_bottom
+{
+	border-top : 1px solid black;
+	text-align : left;
+}
+
+.btn
+{
+	float : right;
+	border : 1px solid #000000;
+	width : 60px;
+	text-align : center;
+	margin-left : 10px;
+}
+
+a:link, a:visited
+{
+	color : black;
+	background : #FFFFFF;
+	text-decoration:none;
+}
+
+a:hover, a:active
+{
+	background : #000000;
+	color : white;
+}
+
+.album_image
+{
+	border-right : 1px solid black;
+	border-bottom : 1px solid black;
+}
+
+#skip
+{
+	border : 1px solid #000000;
+	text-align : center;
+	padding : 10px;
+	position : fixed;
+	width : 278px;
+	bottom : 0px;
+	right : 1px;
+	z-index : 20;
+}
+
+#loop
+{
+	border : 1px solid #000000;
+	text-align : center;
+	padding : 10px;
+	position : fixed;
+	width : 128px;
+	right : 151px;
+	bottom : 40px;
+	z-index : 20;
+	border-top : 2px solid black;
+}
+
+#clear
+{
+	border : 1px solid #000000;
+	text-align : center;
+	padding : 10px;
+	position : fixed;
+	width : 128px;
+	bottom : 40px;
+	right : 1px;
+	z-index : 20;
+	border-top : 2px solid black;
+}
+
+.add_album_btn
+{
+	padding : 4px;
+	border : 1px solid black;
+}
+
+.search_bar
+{
+	position : fixed;
+	bottom : 0px;
+	left : 0px;
+	width : 100px;
+	height : 26px;
+	z-index : 20;
+	background : #FFFFFF;
+	border : 1px solid black;
+	font-family : "Courier";
+	padding : 3px;
+}
+
+#tha_box
+{
+	position : fixed;
+	left : 100px;
+	width: 500px;
+	bottom : 0px;
+	height : 30px;
+	background : #CCCCCC;
+	border : 1px solid black;
+	font-family : "Courier";
+	padding-left : 10px;
+	padding-right : 10px;
+	z-index : 25;
+}
+
+.searchlist
+{
+	border : solid black 1px;
+	width : 100%
+}
+
+#not_found
+{
+	position : fixed;
+	right : 300px;
+	width : 100px;
+	bottom : 0px;
+	height : 32px;
+	background : #FFAAAA;
+	border : 1px solid black;
+	font-family : "Courier";
+	padding-left : 10px;
+	padding-right : 10px;
+	z-index : 30;
+}

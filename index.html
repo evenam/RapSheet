@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Rap Sheet</title>
+		<link rel="stylesheet" type="text/css" href="../stylo.css">
+		<link rel="shortcut icon" href="favicon.ico">
+		<script src="js/jquery-2.0.3.min.js"></script>
+		<script src="js/playlist.js"></script>
+	</head>
+	<body>
+		<div id="wrapper">
+			<div id="mainboard">
+			</div>
+			
+			<div id="sidebar">
+				<div id="sidebar_top">
+					<img src="art.png" width="300px" height="300px" class="album_image" id="sb_cover" /><br />
+					<audio controls id="audio"><source id="source" src=""></audio><br />
+					<h3 id="sb_title"> -- N/A -- </h3>
+					<h4 id="sb_artist"> -- N/A -- </h4>
+					<h4 id="sb_album"> -- N/A -- </h4>
+				</div>
+				<div id="sidebar_bottom">
+					<div id="track_list">
+					</div>
+				</div>
+			</div>
+			<a href="javascript:skizzle(1);" id="skip">skip</a>
+			<a href="javascript:loozzle();" id="loop">normal</a>
+			<a href="javascript:clizzle();" id="clear">clear</a>
+		</div>
+		<div class="search_bar">SEARCH: </div><input type="text" id="tha_box" onkeyup="sizzle();" onclick="clizzle_rizzle();"></input>
+		<div id="not_found">NOT FOUND</div><div id="spacer3000"></div>
+	</body>
+</html>

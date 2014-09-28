@@ -1,0 +1,82 @@
+
+[
+	{
+		"cover" : "music/NaS/Illmatic/cover.jpg",
+		"album" : "Illmatic",
+		"artist" : "NaS",
+		"year" : 1994,
+		"songs" : 
+		[
+			{
+				"artist": "NaS",
+				"title": "The Genesis",
+				"album": "Illmatic",
+				"source": "music/NaS/Illmatic/01 - The Genesis.mp3",
+				"cover": "music/NaS/Illmatic/cover.jpg"
+			},
+			{
+				"artist": "NaS",
+				"title": "N.Y. State Of Mind",
+				"album": "Illmatic",
+				"source": "music/NaS/Illmatic/02 - N.Y. State Of Mind.mp3",
+				"cover": "music/NaS/Illmatic/cover.jpg"
+			},
+			{
+				"artist": "NaS",
+				"title": "Life's A Bitch (ft. AZ)",
+				"album": "Illmatic",
+				"source": "music/NaS/Illmatic/03 - Life's A Bitch.mp3",
+				"cover": "music/NaS/Illmatic/cover.jpg"
+			},
+			{
+				"artist": "NaS",
+				"title": "The World Is Yours",
+				"album": "Illmatic",
+				"source": "music/NaS/Illmatic/04 - The World Is Yours.mp3",
+				"cover": "music/NaS/Illmatic/cover.jpg"
+			},
+			{
+				"artist": "NaS",
+				"title": "Halftime",
+				"album": "Illmatic",
+				"source": "music/NaS/Illmatic/05 - Halftime.mp3",
+				"cover": "music/NaS/Illmatic/cover.jpg"
+			},
+			{
+				"artist": "NaS",
+				"title": "Memory Lane (Sittin' In Da Park)",
+				"album": "Illmatic",
+				"source": "music/NaS/Illmatic/06 - Memory Lane (Sittin' In Da Park).mp3",
+				"cover": "music/NaS/Illmatic/cover.jpg"
+			},
+			{
+				"artist": "NaS",
+				"title": "One Love",
+				"album": "Illmatic",
+				"source": "music/NaS/Illmatic/07 - One Love.mp3",
+				"cover": "music/NaS/Illmatic/cover.jpg"
+			},
+			{
+				"artist": "NaS",
+				"title": "One Time 4 Your Mind",
+				"album": "Illmatic",
+				"source": "music/NaS/Illmatic/08 - One Time 4 Your Mind.mp3",
+				"cover": "music/NaS/Illmatic/cover.jpg"
+			},
+			{
+				"artist": "NaS",
+				"title": "Represent",
+				"album": "Illmatic",
+				"source": "music/NaS/Illmatic/09 - Represent.mp3",
+				"cover": "music/NaS/Illmatic/cover.jpg"
+			},
+			{
+				"artist": "NaS",
+				"title": "It Ain't Hard To Tell",
+				"album": "Illmatic",
+				"source": "music/NaS/Illmatic/10 - It Ain't Hard To Tell.mp3",
+				"cover": "music/NaS/Illmatic/cover.jpg"
+			}
+		]
+	}
+]
